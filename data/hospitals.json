@@ -1,0 +1,76 @@
+{
+  "Bangalore": [
+    "Narayana Hrudayalaya",
+    "Apollo Hospitals",
+    "Fortis Hospitals",
+    "Manipal Hospitals",
+    "Aster CMI Hospitals",
+    "Sakra World Hospital",
+    "Columbia Asia Hospital",
+    "People Tree Hospital",
+    "HOSMAT Hospitals",
+    "Rainbow Hospitals",
+    "Sankara Eye Hospital"
+  ],
+  "Kolkata": [
+    "Fortis Hospital, Anandapur",
+    "AMRI Hospitals",
+    "Apollo Gleneagles Hospital",
+    "RN Tagore international institute of Cardiac Sciences",
+    "CMRI",
+    "Medica Superspeciality hospital",
+    "Peerless Hospital",
+    "Woodland Hospital",
+    "Bhagirathi Neotia",
+    "Tata Medical Center"
+  ],
+  "Delhi": [
+    "Apollo Hospital Delhi",
+    "Accord Superspeciality Hospital",
+    "Blk Hospital Delhi",
+    "Fortis La Femme",
+    "Max Hospital Patparganj",
+    "Sir Ganga Ram Hospital",
+    "Batra Hospital & Medical Research Centre",
+    "Primus Super Speciality Hospital",
+    "Manipal Hospitals Dwarka",
+    "Sarvodaya Hospital",
+    "IBS Institute of Brain and Spine"
+  ],
+  "Chennai": [
+    "Apollo Hospitals, Greams Road",
+    "SIMS Hospitals, Vadapalani",
+    "MGM Healthcare",
+    "Kauvery Hospital",
+    "Dr. Kamakshi Memorial Hospital",
+    "Rela Hospital",
+    "Gleneagles Global Health City",
+    "MIOT International",
+    "Venkataeswara Hospitals",
+    "Fortis Malar Hospital"
+  ],
+  "Mumbai": [
+    "Nanavati Super Speciality Hospital",
+    "Fortis Mulund",
+    "Jaslok Hospital",
+    "Apollo Hospital",
+    "Medicover Hospital",
+    "Fortis Raheja",
+    "Kokilaben Dhirubhai Ambani Hospital",
+    "Global Hospital",
+    "HCG Cancer Hospital",
+    "Tata Memorial Hospital"
+  ],
+  "Hyderabad": [
+    "AIG Hospital",
+    "Apollo Health City",
+    "Kims - Krishna Institute Of Medical Sciences",
+    "Continental Hospitals",
+    "Virinchi Hospitals",
+    "Yashoda Hospitals, Secunderabad",
+    "Care Hospitals",
+    "Aware Gleneagles Global Hospital",
+    "Virinchi Hospital",
+    "Basavatarakam Indo-American Cancer Hospital & Research Institute"
+  ]
+}
